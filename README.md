@@ -1,1 +1,1 @@
-https://img.shields.io/badge/Python-Python%20DEV-green
+https://img.shields.io/static/v1?label=<LABEL>&Python=<MESSAGE>&green=<COLOR>
