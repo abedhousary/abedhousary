@@ -16,5 +16,8 @@ I'am 19 years old and studying software development
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=yellow)
+![](https://img.shields.io/badge/Mysql-1582B6?style=for-the-badge&logo=Mysql&logoColor=white)
+
 
 
