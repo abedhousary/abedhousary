@@ -2,7 +2,7 @@
 
 
 
-I'am 19 years old and studying software development
+I'am 20 years old and studying software development
 
 - 🔭 I’m a Frontend and backend web developer
 - 🌱 I’m a Desktop application developer
